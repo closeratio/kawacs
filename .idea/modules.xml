@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kawacs.iml" filepath="$PROJECT_DIR$/kawacs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_main.iml" group="kawacs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_test.iml" group="kawacs" />
+    </modules>
+  </component>
+</project>

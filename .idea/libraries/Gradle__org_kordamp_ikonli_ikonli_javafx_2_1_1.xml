@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.kordamp.ikonli:ikonli-javafx:2.1.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kordamp.ikonli/ikonli-javafx/2.1.1/bf3e8f21146016f3fcee9ab48ab2228b7db4bc49/ikonli-javafx-2.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.kordamp.ikonli/ikonli-javafx/2.1.1/a9c7c4aaad34e274df03701b84e064d9169ddd1d/ikonli-javafx-2.1.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
