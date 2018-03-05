@@ -3,8 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/kawacs.iml" filepath="$PROJECT_DIR$/kawacs.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_main.iml" group="kawacs" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_test.iml" group="kawacs" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_client/kawacs_client.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_client/kawacs_client.iml" group="kawacs_client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_client/kawacs_client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_client/kawacs_client_main.iml" group="kawacs_client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_client/kawacs_client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_client/kawacs_client_test.iml" group="kawacs_client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_core/kawacs_core.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_core/kawacs_core.iml" group="kawacs_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_core/kawacs_core_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_core/kawacs_core_main.iml" group="kawacs_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_core/kawacs_core_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_core/kawacs_core_test.iml" group="kawacs_core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_recorder/kawacs_recorder.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_recorder/kawacs_recorder.iml" group="kawacs_recorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_recorder/kawacs_recorder_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_recorder/kawacs_recorder_main.iml" group="kawacs_recorder" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kawacs_recorder/kawacs_recorder_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kawacs_recorder/kawacs_recorder_test.iml" group="kawacs_recorder" />
     </modules>
   </component>
 </project>
